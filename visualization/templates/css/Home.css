@@ -1,0 +1,230 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 580px;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: 9px;
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 60px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3.75rem;
+  letter-spacing: 9px;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin: 9px 0 0;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 29px;
+  margin-bottom: -466px;
+  height: auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(20% - 8px) calc(20% - 8px) calc(20% - 8px) calc(20% - 8px) calc(20% - 8px);
+  grid-gap: 10px 10px;
+  min-height: 317px;
+  grid-auto-columns: calc(20% - 8px);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 28px 10px;
+}
+
+.u-section-1 .u-image-1 {
+  height: auto;
+  background-image: url("../images/1.PNG");
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  letter-spacing: 9px;
+  margin: 21px 1px 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 28px 10px;
+}
+
+.u-section-1 .u-image-2 {
+  height: auto;
+  background-image: url("../images/2.PNG");
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-transform: uppercase;
+  letter-spacing: 9px;
+  margin: 21px 1px 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 28px 10px;
+}
+
+.u-section-1 .u-image-3 {
+  height: auto;
+  background-image: url("../images/3.PNG");
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-5 {
+  text-transform: uppercase;
+  letter-spacing: 9px;
+  margin: 21px 1px 0;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 28px 10px;
+}
+
+.u-section-1 .u-image-4 {
+  height: auto;
+  background-image: url("../images/4.PNG");
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-6 {
+  text-transform: uppercase;
+  letter-spacing: 9px;
+  margin: 21px 1px 0;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 28px 10px;
+}
+
+.u-section-1 .u-image-5 {
+  height: auto;
+  background-image: url("../images/5.PNG");
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-7 {
+  text-transform: uppercase;
+  letter-spacing: 9px;
+  margin: 21px 1px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 585px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-bottom: -406px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -1px;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -1px;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -1px;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: -1px;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -1px;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1066px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    grid-auto-columns: calc(33.333333333333336% - 6.666666666666667px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1497px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-bottom: -346px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    grid-auto-columns: calc(50% - 5px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1457px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-bottom: -286px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    grid-auto-columns: calc(100% - 0px);
+  }
+}
