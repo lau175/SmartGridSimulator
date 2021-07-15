@@ -1,0 +1,21 @@
+Repository for the Agent Based Technique
+
+model.py: it contains the agent and the model initializations and asctions for each step
+server.py: it contains all the info for the visualization
+run.py: it is "standard" and needed to run the code
+
+How to run the agent simulator:
+1. create a python3 virtual environment
+2. install mesa, matplotlib and jupiter in the environment
+3. copy in a folder model.py, run.py, server.py
+4. activate the virtual environment from the terminal (command: "source *environment_name*/bin/activate")
+5. go in the folder where you have the three files (command: "cd *path_to_folder*")
+5. write the command "mesa runserver"
+
+
+
+------------------------  TO BE DONE  ----------------------------------
+1. adjust the energy exchange between prosumers on bus one
+2. try simulation with more "decent" data
+3. incorporate BC
+
