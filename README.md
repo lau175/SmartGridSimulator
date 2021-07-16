@@ -3,22 +3,15 @@
 ## Blockchain-based Smart Grid Simulator
 
 ##### Prerequisits
-
 Before installing SGS, be sure have installed the Chrome browser and to satisfy the following prerequisits.
 
-
 ###### Virtual environment
-
-The use Python virtual environment is strongly suggested. [Anaconda][] is recomended but not mandatory:
-
+The use Python virtual environment is strongly suggested. [Anaconda][] is recomended but not mandatory.
 
 ###### Matlab
-
 It is suggested to have the most recent [Matlab][] version, but it is also possible to use SGS with old versions, such as Matlab R2018a. The [Matlab engine][] for Python and [Matpower][] are also required.
 
-
 ###### Ganache
-
 A [Ganache][] workspace with at least 81 accounts is needed.
 
 
