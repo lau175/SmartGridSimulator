@@ -9,10 +9,7 @@ Before installing SGS, be sure have installed the Chrome browser and to satisfy 
 
 ###### Virtual environment
 
-The use Python virtual environment is strongly suggested.
-
-Anaconda is recomended but not mandatory:
-<https://www.anaconda.com/products/individual>
+The use Python virtual environment is strongly suggested. [Anaconda][] is recomended but not mandatory:
 
 
 ###### Matlab
@@ -64,7 +61,7 @@ The SGS page will be automatically opened on Chrome. You will be able there to s
 
 
 
-
+[Anaconda]: https://www.anaconda.com/products/individual
 [Matlab]: https://it.mathworks.com/help/install/
 [Matlab engine]: https://it.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html
 [Matpower]: https://matpower.org/
