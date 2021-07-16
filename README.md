@@ -55,7 +55,7 @@ For example, with Anaconda C:\...\Anaconda3\envs\interdisc\lib\site-packages\mes
 ## Use
 To use SGS, only two actions are required:
 
-###### a) Open Ganache and select the preferred workspace( with at least 81 accounts).
+###### a) Open Ganache and select the preferred workspace (with at least 81 accounts).
 ###### b) Open the terminal of the virtual enviroment and navigate to the *Agent* folder, then run the command
 ```typescript
 mesa runserver
