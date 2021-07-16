@@ -64,7 +64,7 @@ The SGS page will be automatically opened on Chrome. You will be able there to s
 
 
 
-##### Useful links
+
 [Matlab]: https://it.mathworks.com/help/install/
 [Matlab engine]: https://it.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html
 [Matpower]: https://matpower.org/
