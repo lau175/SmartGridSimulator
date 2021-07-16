@@ -38,7 +38,7 @@ In the virtual environment, install the MESA, Matplotlib and Jupyter Python modu
 ```typescrip
 pip3 install matplotlib
 pip3 install jupyter
-pip3 install jupyter
+pip3 install mesa
 ```
 
 #### Step 3:
