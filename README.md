@@ -2,7 +2,7 @@
 
 ## Blockchain-based Smart Grid Simulator
 
-##### Prerequisits
+#### Prerequisits
 Before installing SGS, be sure have installed the Chrome browser and to satisfy the following prerequisits.
 
 ###### Virtual environment
