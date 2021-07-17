@@ -22,7 +22,11 @@ To install SGS, please download the content of the repository and follow these e
 #### Step 1:
 After opening the workspace on Ganache, go to [Remix][], copy-and-paste the content of *transaction.sol* (in the *Agent* folder). Select Web3 Provider (endpoint: http://127.0.0.1:7545) as environment and click "Compile". From the "Deploy and run contract" menu, copy the bytecode at the bottom right and paste it in *transaction.py* (still in the *Agent* folder) at line 19 (in place of the default one).
 
-![rmx1](https://github.com/lau175/SmartGridSimulator/tree/main/images4readme/rmx1.PNG)
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx1.PNG" style="zoom:50%" />
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx2.PNG" style="zoom:50%" />
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx3.PNG" style="zoom:50%" />
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx4.PNG" style="zoom:50%" />
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx5.PNG" style="zoom:50%" />
 
 
 
@@ -63,7 +67,7 @@ Once the web page is automatically opend, it is possible to set different parame
 - **Percentage of commercial activities**: probaility for prosumers following a business energy profile;
 - **Probability of awareness**: probability for prosumers to care about their energy profile (they may try to reduce their energy waste or demanding more energy than the average consumption profile to increase their comfort level).
 
-<img src="https://github.com/lau175/SmartGridSimulator/tree/main/images4readme/sliders.PNG" style="zoom:50%" />
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/sliders.PNG" style="zoom:50%" />
 
 Once the parameters are set, click on "Reset" (on the top right in the navigation bar) to initialize the simulation. When the graphic for the grid is loaded, click on "Start".
 
@@ -74,8 +78,8 @@ Step by step, it is possible to visualize the grid with the prosumers and their 
 It is also present the plot with the amount of exchanged energy among prosumers and with the local market.
 Also the trend for the average price in the direct negotiations for each neighbourhood are shown.
 
-<img src="https://github.com/lau175/SmartGridSimulator/tree/main/images4readme/grid.PNG" style="zoom:50%" />
-<img src="https://github.com/lau175/SmartGridSimulator/tree/main/images4readme/graph.PNG" />
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/grid.PNG" style="zoom:50%" />
+<img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/graph.PNG" />
 
 
 
