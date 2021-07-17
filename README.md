@@ -22,11 +22,11 @@ To install SGS, please download the content of the repository and follow these e
 #### Step 1:
 After opening the workspace on Ganache, go to [Remix][], copy-and-paste the content of *transaction.sol* (in the *Agent* folder). Select Web3 Provider (endpoint: http://127.0.0.1:7545) as environment and click "Compile". From the "Deploy and run contract" menu, copy the bytecode at the bottom right and paste it in *transaction.py* (still in the *Agent* folder) at line 19 (in place of the default one).
 
-                      <center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx1.PNG"></center>
-                      <center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx2.PNG"></center>
-                      <center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx3.PNG"></center>
-                      <center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx4.PNG"></center>
-                      <center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx5.PNG"></center>
+<center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx1.PNG" style="width: 200px"></center>
+<center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx2.PNG"></center>
+<center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx3.PNG"></center>
+<center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx4.PNG"></center>
+<center><img src="https://github.com/lau175/SmartGridSimulator/blob/main/images4readme/rmx5.PNG"></center>
 
 
 
